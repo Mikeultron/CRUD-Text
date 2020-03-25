@@ -1,2 +1,2 @@
 # CRUD-Text
-A Simple CRUD for .txt file.
+A Simple CRUD for file.
